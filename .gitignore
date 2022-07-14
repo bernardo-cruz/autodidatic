@@ -1,2 +1,4 @@
 
 scraping/geckodriver.log
+.DS_Store
+scraping/geckodriver.log
